@@ -6,11 +6,15 @@
     </linearGradient>
   </defs>
   <rect width="1200" height="280" fill="url(#grad)"/>
-  <text x="50%" y="48%" dominant-baseline="middle" text-anchor="middle" font-size="56" 
+  
+  <!-- Name centered -->
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="56"
         font-family="'Segoe UI', Roboto, Inter, Arial" fill="#ffffff" font-weight="700">
     Rakshitha K B
   </text>
-  <text x="50%" y="68%" dominant-baseline="middle" text-anchor="middle" font-size="24" 
+  
+  <!-- Tagline centered -->
+  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="24"
         font-family="'Segoe UI', Roboto, Inter, Arial" fill="#ffffff" opacity="0.95">
     Student • Learner • Coder
   </text>
