@@ -78,6 +78,7 @@
       <li>Data Structures & Algorithms</li>
       <li>Web dev (HTML/CSS/JS)</li>
       <li>Python Projects</li>
+      <li>Agentforce AI </li>
     </ul>
   </div>
   <div style="border-radius:12px; padding:16px; background:#f9fafb; border:1px solid #e5e7eb;">
