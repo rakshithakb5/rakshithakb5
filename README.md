@@ -2,23 +2,18 @@
   <img src="assets/banner.svg" alt="Rakshitha banner" width="100%" />
 </p>
 
+## 👋 Hey Everyone, I’m Rakshitha K B  
+### ✨ Welcome to My GitHub Universe!  
 
+- 🎓 Student exploring coding & technology  
+- 🌱 Constant learner — improving one project at a time  
+- 💻 C, Python, and Web Dev enthusiast  
+- 🚀 Building fun projects & sharing my journey  
+- 🤝 Open to collaboration and learning from peers  
 
+<p align="center">
+  <a href="rakshithakb5@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="www.linkedin.com/in/rakshitha-k-b-001093377"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/rakshithakb5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
 
-
-## Hi there 👋
-
-<!--
-**rakshithakb5/rakshithakb5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

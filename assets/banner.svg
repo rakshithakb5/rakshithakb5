@@ -5,17 +5,53 @@
       <stop offset="100%" stop-color="#22c55e"/>
     </linearGradient>
   </defs>
+  <style type="text/css">
+    .typewriter {
+      font-family: 'Segoe UI', Roboto, Inter, Arial;
+      fill: #fff;
+      font-size: 24px;
+      opacity: 0.95;
+    }
+  </style>
   <rect width="1200" height="280" fill="url(#grad)"/>
   
   <!-- Name centered -->
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="56"
+  <text id="bannerName" x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-size="56"
         font-family="'Segoe UI', Roboto, Inter, Arial" fill="#ffffff" font-weight="700">
     Rakshitha K B
   </text>
-  
-  <!-- Tagline centered -->
-  <text x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" font-size="24"
-        font-family="'Segoe UI', Roboto, Inter, Arial" fill="#ffffff" opacity="0.95">
-    Student • Learner • Coder
-  </text>
+
+  <!-- Tagline centered, typewriter effect -->
+  <text id="typewriter" x="50%" y="65%" dominant-baseline="middle" text-anchor="middle" class="typewriter"></text>
+
+  <script type="application/ecmascript"><![CDATA[
+    (function() {
+      var texts = ["Student", "Learner", "Builder"];
+      var i = 0, j = 0, forward = true, pause = 0;
+      var speed = 100, hold = 1000;
+      var el = document.getElementById('typewriter');
+      function type() {
+        if (forward) {
+          if (j < texts[i].length) {
+            el.textContent = texts[i].slice(0, ++j);
+            setTimeout(type, speed);
+          } else {
+            forward = false;
+            pause = hold;
+            setTimeout(type, pause);
+          }
+        } else {
+          if (j > 0) {
+            el.textContent = texts[i].slice(0, --j);
+            setTimeout(type, speed / 2);
+          } else {
+            forward = true;
+            i = (i + 1) % texts.length;
+            setTimeout(type, speed);
+          }
+        }
+      }
+      type();
+    })();
+  ]]></script>
 </svg>
