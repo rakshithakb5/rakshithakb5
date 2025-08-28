@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Rakshitha banner" width="100%" />
+  <img src="assets/banner_spaced.gif" alt="Rakshitha banner" width="100%" />
 </p>
 
 ## 👋 Hey Everyone, I’m Rakshitha K B  
