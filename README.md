@@ -119,5 +119,5 @@
 </p>
 
 <p align="center">
-  <sub>✨ • Crafted with ❤️ by Rakshitha K B • </sub>
+  <sub>✨ • ❤️ by R K B • </sub>
 </p>
