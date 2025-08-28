@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Rakshitha banner" width="100%" />
+</p>
+
+
+
+
+
 ## Hi there 👋
 
 <!--
