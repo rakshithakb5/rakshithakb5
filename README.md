@@ -109,8 +109,10 @@
 
 ---
 
-### 🐍 Fun Add-on  
-![Snake animation](https://github.com/rakshithakb5/rakshithakb5/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg" alt="Contribution snake"/>
+</p>
 
 ---
 
