@@ -11,4 +11,4 @@ jobs:
         with:
           github_user_name: rakshithakb5
           outputs: |
-            dist/snake.svg?color_snake=purple&color_dots=#0d1117,#0f1623,#1a2634,#238636,#39d353
+            dist/snake.svg?color_snake=purple&color_dots=%230d1117,%230f1623,%231a2634,%23238636,%2339d353
