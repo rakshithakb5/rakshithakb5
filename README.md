@@ -107,6 +107,11 @@
   <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical"/>
 </p>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+
 ---
 
 ### 🐍 Contribution Snake
