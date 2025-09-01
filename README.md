@@ -119,9 +119,6 @@
 ![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=5)
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg" alt="Contribution snake"/>
-</p>
 
 ---
 
