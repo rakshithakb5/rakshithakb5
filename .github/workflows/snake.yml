@@ -1,8 +1,11 @@
 name: Generate snake animation
 
 on:
+<<<<<<< HEAD
   schedule: # every 24 hours
     - cron: "0 0 * * *"
+=======
+>>>>>>> 69fb846b3af1174868162ecf33a16d8c2e13d46b
   workflow_dispatch:
 
 permissions:
@@ -16,6 +19,7 @@ jobs:
         with:
           github_user_name: rakshithakb5
           outputs: |
+<<<<<<< HEAD
             dist/snake.svg?color_snake=purple&color_dots=%230d1117,%23141a23,%231f2d3a,%23238636,%2339d353
 
       - name: Push to GitHub Pages
@@ -25,3 +29,6 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+=======
+            dist/snake.svg?color_snake=purple&color_dots=%230d1117,%230f1623,%231a2634,%23238636,%2339d353
+>>>>>>> 69fb846b3af1174868162ecf33a16d8c2e13d46b

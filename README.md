@@ -78,6 +78,7 @@
       <li>Data Structures & Algorithms</li>
       <li>Web dev (HTML/CSS/JS)</li>
       <li>Python Projects</li>
+      <li>Agentforce AI </li>
     </ul>
   </div>
   <div style="border-radius:12px; padding:16px; background:#f9fafb; border:1px solid #e5e7eb;">
@@ -106,11 +107,21 @@
   <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical"/>
 </p>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+
 ---
+
 
 ### 🐍 Fun Add-on  
 ![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=5)
 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg" alt="Contribution snake"/>
+</p>
 
 ---
 
@@ -119,5 +130,5 @@
 </p>
 
 <p align="center">
-  <sub>✨ • Crafted with ❤️ by Rakshitha K B • </sub>
+  <sub>✨ • ❤️ by R K B • </sub>
 </p>
