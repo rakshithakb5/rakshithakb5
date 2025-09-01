@@ -109,7 +109,8 @@
 ---
 
 ### 🐍 Fun Add-on  
-![Snake animation](https://github.com/rakshithakb5/rakshithakb5/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=5)
+
 
 ---
 
