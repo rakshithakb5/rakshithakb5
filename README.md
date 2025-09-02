@@ -7,7 +7,7 @@
 
 - 🎓 Student exploring coding & technology  
 - 🌱 Constant learner — improving one project at a time  
-- 💻 C, Python, and Web Dev enthusiast  
+- 💻 AI and Web Dev enthusiast  
 - 🚀 Building fun projects & sharing my journey  
 - 🤝 Open to collaboration and learning from peers  
 
