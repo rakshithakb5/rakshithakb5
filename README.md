@@ -116,7 +116,8 @@
 
 
 ### 🐍 Fun Add-on  
-![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=5)
+![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=7)
+
 
 
 
