@@ -1,3 +1,4 @@
+
 name: Generate snake animation
 
 on:
@@ -6,7 +7,7 @@ on:
   workflow_dispatch:       # allow manual runs
 
 permissions:
-  contents: write          # required to push to the output branch
+  contents: write          # needed to push to "output" branch
 
 jobs:
   build:
@@ -16,7 +17,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: rakshithakb5
-          # color_dots are 5 levels (0 -> 4). Hex colors must be URL-encoded (%23 for #)
+          # five levels (0 → 4). hex colors must be URL-encoded as %23
           outputs: |
             dist/snake.svg?color_snake=purple&color_dots=%23262626,%23333333,%23444444,%23238636,%2339d353
 
