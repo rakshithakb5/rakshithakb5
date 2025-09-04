@@ -128,5 +128,5 @@
 </p>
 
 <p align="center">
-  <sub>✨ • ❤️ by R K B • </sub>
+  <sub> • ❤️ by R K B • </sub>
 </p>
