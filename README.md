@@ -54,7 +54,7 @@
       <h3>🌦 Weather Forecaster</h3>
       <p>A Python Tkinter app that fetches weather data using OpenWeatherMap API.</p>
       <p>
-        <a href="https://github.com/USERNAME/weather-forecaster"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://github.com/rakshithakb5/weather-forecaster"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
     <td width="50%">
@@ -62,6 +62,13 @@
       <p>A simple C project storing daily expenses in CSV with add/search features.</p>
       <p>
         <a href="https://github.com/rakshithakb5/expense-tracker"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3>2048 Game</h3>
+      <p> A classic 2048 game using tkinter </p>
+      <p>
+        <a href="https://github.com/rakshithakb5/weather-forecaster"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
       </p>
     </td>
   </tr>
@@ -106,8 +113,20 @@
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical"/>
 </p>
-![Streaks](https://img.shields.io/badge/Streaks-Loading%E2%80%A6-FF6E96?style=flat)
 
+<img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical&hide_border=true&v=3" />
+
+
+
+## trial
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithakb5&show_icons=true&theme=radical&v=2" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithakb5&layout=compact&theme=radical&v=2" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical&hide_border=true&v=2" alt="GitHub Streak"/>
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
 
