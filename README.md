@@ -45,9 +45,6 @@
   <img src="assets/footer-wave.svg" width="100%" />
 </p>
 
-## trails 
-not yet done wait
-
 ### 🚀 Featured Projects
 
 <div style="display:flex; gap:16px; overflow-x:auto; padding:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
