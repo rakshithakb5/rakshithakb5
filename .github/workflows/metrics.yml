@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          user: rakshithakb5
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: assets/activity-radar.svg
+          base: ""
+
+          plugin_activity: yes
+          plugin_activity_days: 365
+          plugin_activity_filter: issue, pr, review, push
+          plugin_activity_limit: 1000
+          plugin_activity_sections: chart
+          plugin_activity_visibility: public
+          plugin_activity_threshold: 0
+
+          config_timezone: Asia/Kolkata
