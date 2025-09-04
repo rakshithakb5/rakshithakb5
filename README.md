@@ -46,33 +46,43 @@
 </p>
 
 
-### 🚀 Featured Projects  
+### 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🌦 Weather Forecaster</h3>
-      <p>A Python Tkinter app that fetches weather data using OpenWeatherMap API.</p>
-      <p>
-        <a href="https://github.com/rakshithakb5/weather-forecaster"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>💰 Expense Tracker</h3>
-      <p>A simple C project storing daily expenses in CSV with add/search features.</p>
-      <p>
-        <a href="https://github.com/rakshithakb5/expense-tracker"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>2048 Game</h3>
-      <p> A classic 2048 game using tkinter </p>
-      <p>
-        <a href="https://github.com/rakshithakb5/weather-forecaster"><img src="https://img.shields.io/badge/-View%20Repo-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div style="display:flex; gap:16px; overflow-x:auto; padding:8px; scroll-snap-type:x mandatory; -webkit-overflow-scrolling:touch;">
+  <!-- CARD 1 -->
+  <div style="flex:0 0 280px; scroll-snap-align:center; background:#0b1220; border:1px solid #1f2937; border-radius:12px; padding:16px;">
+    <h3 style="margin:0 0 8px;">🌦 Weather Forecaster</h3>
+    <p style="margin:0 0 12px; line-height:1.5;">Python Tkinter app that fetches weather data using OpenWeatherMap API.</p>
+    <a href="https://github.com/rakshithakb5/weather-forecaster"
+       style="display:inline-block; padding:8px 12px; border-radius:8px; background:#0EA5E9; color:#fff; text-decoration:none; font-weight:600;">
+      🔗 View Repo
+    </a>
+  </div>
+
+  <!-- CARD 2 -->
+  <div style="flex:0 0 280px; scroll-snap-align:center; background:#0b1220; border:1px solid #1f2937; border-radius:12px; padding:16px;">
+    <h3 style="margin:0 0 8px;">💰 Expense Tracker</h3>
+    <p style="margin:0 0 12px; line-height:1.5;">Simple C project storing daily expenses in CSV with add/search features.</p>
+    <a href="https://github.com/rakshithakb5/expense-tracker"
+       style="display:inline-block; padding:8px 12px; border-radius:8px; background:#0EA5E9; color:#fff; text-decoration:none; font-weight:600;">
+      🔗 View Repo
+    </a>
+  </div>
+
+  <!-- CARD 3 -->
+  <div style="flex:0 0 280px; scroll-snap-align:center; background:#0b1220; border:1px solid #1f2937; border-radius:12px; padding:16px;">
+    <h3 style="margin:0 0 8px;">🎮 2048 Game</h3>
+    <p style="margin:0 0 12px; line-height:1.5;">Classic 2048 built with Tkinter (Python). Keyboard controls, score tracking.</p>
+    <a href="https://github.com/rakshithakb5/2048-tkinter"
+       style="display:inline-block; padding:8px 12px; border-radius:8px; background:#0EA5E9; color:#fff; text-decoration:none; font-weight:600;">
+      🔗 View Repo
+    </a>
+  </div>
+
+  <!-- Add more cards by copying a block above -->
+</div>
+
+<p align="center" style="opacity:.7; font-size:12px;">⬅︎ drag/scroll to explore ➡︎</p>
 
 ---
 
@@ -96,7 +106,7 @@
       <li>Mini Games in C</li>
     </ul>
   </div>
-  <div style="border-radius:12px; padding:16px; background:#f9fafb; border:1px solid #e5e7eb;">
+  <div style="border-radius:12px; padding:16px; background:#f9fafb; border:1px solid #e6e9f2ff;">
     
   </div>
 </div>
@@ -114,19 +124,8 @@
   <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical"/>
 </p>
 
-<img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical&hide_border=true&v=3" />
 
 
-
-## trial
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithakb5&show_icons=true&theme=radical&v=2" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithakb5&layout=compact&theme=radical&v=2" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical&hide_border=true&v=2" alt="GitHub Streak"/>
-</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
 
