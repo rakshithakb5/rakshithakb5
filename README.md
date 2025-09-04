@@ -106,11 +106,14 @@
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical"/>
 </p>
+![Streaks](https://img.shields.io/badge/Streaks-Loading%E2%80%A6-FF6E96?style=flat)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
 
-
+<p align="center">
+  <img src="assets/footer-wave.svg" width="100%" />
+</p>
 
 ---
 
@@ -128,5 +131,5 @@
 </p>
 
 <p align="center">
-  <sub> • ❤️ by R K B • </sub>
+  <sub>✨ • ❤️ by R K B • </sub>
 </p>
