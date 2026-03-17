@@ -4,7 +4,7 @@
 
 ## 👋 Heyooo, I’m Rakshitha K B   
 
-- 💻 AI and Web Dev enthusiast  
+- 💻 AI and Web Dev enthusiast
 - 🚀 Building fun projects & sharing my journey  
 - 🤝 Open to collaboration and learning from peers  
 
@@ -38,9 +38,6 @@
 
 
 
-<p align="center">
-  <img src="assets/footer-wave.svg" width="100%" />
-</p>
 
 ### 🚀 Featured Projects
 
@@ -125,10 +122,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
 
-<p align="center">
-  <img src="assets/footer-wave.svg" width="100%" />
-</p>
-
 ---
 
 
@@ -139,10 +132,6 @@
 
 
 ---
-
-<p align="center">
-  <img src="assets/footer-wave.svg" width="100%" />
-</p>
 
 <p align="center">
   <sub> • by R K B • </sub>
