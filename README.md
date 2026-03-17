@@ -2,11 +2,8 @@
   <img src="assets/banner_spaced.gif" alt="Rakshitha banner" width="100%" />
 </p>
 
-## 👋 Hey Everyone, I’m Rakshitha K B  
-### ✨ Welcome to My GitHub Universe!  
+## 👋 Heyooo, I’m Rakshitha K B   
 
-- 🎓 Student exploring coding & technology  
-- 🌱 Constant learner — improving one project at a time  
 - 💻 AI and Web Dev enthusiast  
 - 🚀 Building fun projects & sharing my journey  
 - 🤝 Open to collaboration and learning from peers  
@@ -148,5 +145,5 @@
 </p>
 
 <p align="center">
-  <sub>✨ • ❤️ by R K B • </sub>
+  <sub> • by R K B • </sub>
 </p>
