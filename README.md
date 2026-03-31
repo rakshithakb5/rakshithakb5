@@ -40,11 +40,6 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rakshithakb5&show_icons=true&theme=radical"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithakb5&layout=compact&theme=radical"/>
-</p>
-
-<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=rakshithakb5&theme=radical"/>
 </p>
 
