@@ -39,12 +39,9 @@
 
 ### 📊 GitHub Stats  
 
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=rakshithakb5&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=rakshithakb5&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakshithakb5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
