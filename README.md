@@ -32,7 +32,11 @@
 ![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=7)
 
 ---
+<br/>
+<br/>
+Always up for CTF teams, security and ML projects, and arguments about how to break AI agents.
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d47a1,100:1e88e5&height=120&section=footer" width="100%" alt="" />
 <p align="center">
   <sub> • by R K B • </sub>
 </p>
