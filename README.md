@@ -4,7 +4,7 @@
 
 ## Heyooo, I’m Rakshitha K B   
 
-- 💻 AI | CyberSecurity | ML enthusiast
+- 💻 AI | CyberSecurity | ML enthusiast | DevOPs
 - 🚀 Building projects & sharing my journey  
  
 ### 💻 Tech Stack:
