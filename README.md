@@ -28,7 +28,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
-### 🐍 Fun Add-on  
+### 🐍 the snake is hungry 
 ![Snake animation](https://raw.githubusercontent.com/rakshithakb5/rakshithakb5/output/snake.svg?v=7)
 
 ---
