@@ -18,11 +18,21 @@
   <a href="https://github.com/rakshithakb5"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-### 📊 GitHub Stats  
+### 📊 Engineering activity
 
-![](https://github-readme-stats.shion.dev/api?username=rakshithakb5&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=rakshithakb5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rakshithakb5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<table align="center">
+<tr>
+<td align="center" valign="middle">
+<img src="https://github-readme-stats.shion.dev/api?username=rakshithakb5&show_icons=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&custom_title=Stats&bg_color=0b0f19&title_color=0a66ff&text_color=2b8aa8&icon_color=2b8aa8&card_width=300" alt="GitHub stats" />
+</td>
+<td align="center" valign="middle">
+<img src="https://cdn.simpleicons.org/github/0a74c9" width="120" alt="GitHub" />
+</td>
+<td align="center" valign="middle">
+<img src="https://streak-stats.demolab.com/?user=rakshithakb5&hide_border=true&background=0b0f19&stroke=2a2f3a&ring=1e88e5&fire=ff9800&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&card_width=480" alt="GitHub streak" />
+</td>
+</tr>
+</table>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rakshithakb5&label=Profile%20Views&color=0e75b6&style=flat)
